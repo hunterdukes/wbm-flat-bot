@@ -2,6 +2,7 @@
 
 Python bot that automates flat search and application for flats by WBM Wohnungsbaugesellschaft Berlin-Mitte. 
 
+
 ## Features 
 
 - Search flats by zip code, flat size, minimum room number, maximum rent (more to come)
